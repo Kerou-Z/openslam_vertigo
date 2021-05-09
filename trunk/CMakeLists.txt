@@ -21,4 +21,4 @@ set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -fPIC -ggdb")
 
 
 add_subdirectory(src)
-add_subdirectory(examples)
+#add_subdirectory(examples)
